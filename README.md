@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js: missing error handling in an HTTP server. The `bug.js` file shows the problematic code, while `bugSolution.js` provides a corrected version with robust error handling.  This is crucial for production applications to prevent unexpected crashes and maintain stability.
